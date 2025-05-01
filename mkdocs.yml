@@ -1,4 +1,4 @@
-site_name: OpenAI Agents SDK
+site_name: Sparkjar Agents SDK
 theme:
   name: material
   features:
@@ -19,8 +19,8 @@ theme:
   logo: assets/logo.svg
   favicon: images/favicon-platform.svg
 
-repo_name: openai-agents-python
-repo_url: https://github.com/openai/openai-agents-python
+repo_name: sparkjar-agents
+repo_url: https://github.com/YOUR_GITHUB_USERNAME/sparkjar-agents
 
 plugins:
   - search
@@ -162,10 +162,10 @@ extra:
   language: en
   alternate:
     - name: English
-      link: /openai-agents-python/
+      link: /sparkjar-agents/
       lang: en
     - name: 日本語
-      link: /openai-agents-python/ja/
+      link: /sparkjar-agents/ja/
       lang: ja
 
 markdown_extensions:

@@ -1,6 +1,6 @@
-# OpenAI Agents SDK
+# Sparkjar Agents SDK
 
-The OpenAI Agents SDK is a lightweight yet powerful framework for building multi-agent workflows. It is provider-agnostic, supporting the OpenAI Responses and Chat Completions APIs, as well as 100+ other LLMs.
+The Sparkjar Agents SDK is a lightweight yet powerful framework for building multi-agent workflows. It is provider-agnostic, supporting the OpenAI Responses and Chat Completions APIs, as well as 100+ other LLMs.
 
 <img src="https://cdn.openai.com/API/docs/images/orchestration.png" alt="Image of the Agents Tracing UI" style="max-height: 803px;">
 
@@ -25,10 +25,10 @@ source env/bin/activate
 2. Install Agents SDK
 
 ```
-pip install openai-agents
+pip install sparkjar-agents
 ```
 
-For voice support, install with the optional `voice` group: `pip install 'openai-agents[voice]'`.
+For voice support, install with the optional `voice` group: `pip install 'sparkjar-agents[voice]'`.
 
 ## Hello world example
 
